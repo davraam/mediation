@@ -244,7 +244,7 @@
 #'   morale in the school. 4 levels.} \item{gender:}{ Indicator variable for 
 #'   gender. 1 = female.} \item{income:}{ Total family income. 13 levels.} 
 #'   \item{free:}{ Percent of 10th grade students receiving free lunch. 1 to 7 
-#'   levels.} \item{pared:}{ Parents highest level of education. 8 levels} 
+#'   levels.} \item{pared:}{ Parents highest level of education. 2 levels} 
 #'   \item{catholic:}{ Indicator variable for catholic school. 1 = catholic 
 #'   school.} }
 #'   
